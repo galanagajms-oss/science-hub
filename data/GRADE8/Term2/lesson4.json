@@ -1,0 +1,43 @@
+{
+  "title": "Crustal Features and Interactions",
+  "competency": "Gather information from secondary sources to name and describe the upper crustal layers of the solid earth; describe different types of volcanoes; relate the shape of a volcano’s cone to its composition; and relate the location of volcanoes, earthquakes, and mountain belts to the distribution of crustal plates.",
+  "objectives": [
+    "Identify the upper layers of the Earth's crust (Sial and Sima).",
+    "Classify volcanoes based on their activity, eruption type, and location.",
+    "Explain how the composition of magma determines the shape of a volcanic cone.",
+    "Relate the distribution of geological features to the boundaries of lithospheric plates."
+  ],
+  "introduction": "The Earth's surface is not a solid, unbroken shell. Instead, it is a giant jigsaw puzzle of moving pieces called lithospheric plates. The interactions between these plates create the most dramatic features of our planet: towering mountain ranges, deep-sea trenches, and explosive volcanoes. By studying these features, we can understand the dynamic forces working beneath our feet.",
+  "content": "<h3>1. Layers of the Upper Crust</h3><p>Geologists often describe the upper crust using two chemical layers:</p><ul><li><b>SIAL (Silicon and Aluminum):</b> The upper layer of the continental crust. It is lighter and composed mostly of granitic rocks.</li><li><b>SIMA (Silicon and Magnesium):</b> The lower layer of the crust (and the main component of oceanic crust). It is denser and composed mostly of basaltic rocks.</li></ul><h3>2. Volcanic Classification</h3><p>Volcanoes are classified in three ways:</p><ul><li><b>By Activity:</b> <i>Active</i> (erupted recently), <i>Dormant</i> (quiet for a long time but may erupt again), and <i>Extinct</i> (unlikely to erupt again).</li><li><b>By Location:</b> Most are found along plate boundaries (Circum-Pacific Belt or Ring of Fire), but some form over 'Hotspots' in the middle of plates.</li><li><b>By Cone Shape & Composition:</b> <ul><li><b>Shield Volcanoes:</b> Broad and flat; formed by 'runny' (low viscosity) lava.</li><li><b>Cinder Cones:</b> Small and steep; formed by explosive eruptions of 'scoria' or cinders.</li><li><b>Composite (Stratovolcanoes):</b> Tall and majestic; formed by alternating layers of 'thick' (high viscosity) lava and ash.</li></ul></li></ul><h3>3. The Global Pattern</h3><p>Active volcanoes, earthquake epicenters, and major mountain belts are not randomly scattered. They are primarily located along <b>Plate Boundaries</b>. Where plates collide (converge), we find folded mountains and explosive volcanoes. Where they pull apart (diverge), we find rift valleys and volcanic ridges.</p><h3>4. Lithospheric Plates</h3><p>The Earth’s surface is made of separate, movable <b>Lithospheric Plates</b>. These plates 'float' on the semi-liquid asthenosphere. The movement of these plates, driven by convection currents in the mantle, is responsible for the slow accumulation of erupted lava that builds volcanic terrains over millions of years.</p>",
+  "examples": [
+    {
+      "title": "Mayon Volcano",
+      "description": "Mayon is a perfect example of a Composite Volcano (Stratovolcano). Its 'perfect cone' is the result of many eruptions of thick, viscous lava and ash accumulating over time."
+    },
+    {
+      "title": "The Pacific Ring of Fire",
+      "description": "A 40,000 km horseshoe-shaped area where 75% of the world's active volcanoes and 90% of the world's earthquakes occur, tracing the edges of the Pacific Plate."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Viscosity", "definition": "The resistance of a fluid (magma) to flow. Thick magma has high viscosity; runny magma has low viscosity." },
+    { "term": "Plate Tectonics", "definition": "The theory that the Earth's outer shell is divided into several plates that glide over the mantle." },
+    { "term": "Lithosphere", "definition": "The rigid outer layer of Earth, including the crust and the uppermost part of the mantle." }
+  ],
+  "keyConcepts": [
+    "The shape of a volcano is directly related to the type of lava it erupts.",
+    "Earthquakes and volcanoes serve as markers for the boundaries between tectonic plates.",
+    "Continental and oceanic crusts move as part of larger lithospheric plates."
+  ],
+  "summary": "The Earth's crust is divided into Sial and Sima layers and organized into movable lithospheric plates. The interaction of these plates at their boundaries determines where volcanoes, earthquakes, and mountains form. Furthermore, the chemical composition of magma dictates whether a volcano will be a broad shield or a steep composite cone.",
+  "selfCheck": [
+    { "q": "Which volcanic cone is built from low-viscosity, runny lava?", "a": "Shield Volcano" },
+    { "q": "What do we call the area around the Pacific Ocean where most earthquakes and volcanoes occur?", "a": "The Ring of Fire" },
+    { "q": "In the upper crust, which layer is primarily associated with the continents?", "a": "Sial (Silicon and Aluminum)" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Volcanoes of the Philippines (PHIVOLCS).",
+    "Essentials of Geology (Stephen Marshak)."
+  ]
+}

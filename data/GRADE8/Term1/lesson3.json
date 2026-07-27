@@ -1,0 +1,43 @@
+{
+  "title": "Taxonomic Classification",
+  "competency": "Describe the importance of the six-kingdom system and the three-domain system of classification of living things; and explain why humans are classified under Class Mammalia and the Order Primates.",
+  "objectives": [
+    "Explain the necessity of classifying living things.",
+    "Differentiate the Three-Domain System from the Six-Kingdom System.",
+    "Identify the characteristics of the six kingdoms of life.",
+    "Justify the classification of humans under Class Mammalia and Order Primates based on specific physical traits."
+  ],
+  "introduction": "With millions of species on Earth, scientists need a systematic way to organize and name them. Taxonomy is the branch of science concerned with classification. By grouping organisms based on shared characteristics, we can understand the relationships between different forms of life, from the simplest bacteria to complex human beings.",
+  "content": "<h3>1. Levels of Classification</h3><p>Organisms are arranged in a hierarchy from broadest to most specific: <b>Domain, Kingdom, Phylum, Class, Order, Family, Genus, and Species.</b></p><h3>2. The Three-Domain System</h3><p>This is the broadest category of life, based on cellular chemistry:</p><ul><li><b>Archaea:</b> Ancient, single-celled organisms that live in extreme environments.</li><li><b>Bacteria:</b> Common single-celled organisms found everywhere.</li><li><b>Eukarya:</b> All organisms with complex cells containing a nucleus (includes plants, animals, fungi, and protists).</li></ul><h3>3. The Six-Kingdom System</h3><ul><li><b>Archaebacteria:</b> Unicellular, lives in extreme heat or salt.</li><li><b>Eubacteria:</b> Unicellular, common bacteria.</li><li><b>Protista:</b> Mostly unicellular eukaryotes like amoeba or algae.</li><li><b>Fungi:</b> Multicellular or unicellular decomposers like mushrooms and yeast.</li><li><b>Plantae:</b> Multicellular autotrophs (make their own food).</li><li><b>Animalia:</b> Multicellular heterotrophs (consume others).</li></ul><h3>4. Human Classification: Mammals and Primates</h3><p>Humans (<i>Homo sapiens</i>) are classified based on specific features:</p><ul><li><b>Class Mammalia:</b> Humans belong here because we have hair or fur, possess mammary glands to nourish our young with milk, and are warm-blooded (endothermic).</li><li><b>Order Primates:</b> Humans belong here because we have opposable thumbs, forward-facing eyes (binocular vision) for depth perception, and a highly developed brain.</li></ul>",
+  "examples": [
+    {
+      "title": "Scientific Naming (Binomial Nomenclature)",
+      "description": "Every organism has a two-part name (Genus + Species). Example: The lion is 'Panthera leo'. 'Panthera' is the Genus, and 'leo' is the Species."
+    },
+    {
+      "title": "Human Taxonomy",
+      "description": "Domain: Eukarya -> Kingdom: Animalia -> Phylum: Chordata -> Class: Mammalia -> Order: Primates -> Family: Hominidae -> Genus: Homo -> Species: sapiens."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Taxonomy", "definition": "The science of naming, defining, and classifying groups of biological organisms." },
+    { "term": "Eukaryote", "definition": "An organism whose cells contain a nucleus and other membrane-bound organelles." },
+    { "term": "Mammary Glands", "definition": "Specialized organs in mammals that produce milk to feed offspring." }
+  ],
+  "keyConcepts": [
+    "Classification shows both the diversity and unity of living things.",
+    "The Three-Domain system reflects fundamental differences in cell types.",
+    "Humans share distinct anatomical and physiological traits with other mammals and primates."
+  ],
+  "summary": "Taxonomy organizes life into domains and kingdoms to show evolutionary relationships. Humans are part of the Domain Eukarya and Kingdom Animalia. Our classification as Mammals is due to our hair and milk production, while our classification as Primates is due to our grasping hands and advanced vision.",
+  "selfCheck": [
+    { "q": "What is the broadest level of biological classification?", "a": "Domain" },
+    { "q": "To which kingdom do mushrooms belong?", "a": "Kingdom Fungi" },
+    { "q": "State one reason why humans are classified as Primates.", "a": "Because we have opposable thumbs (or binocular vision/large brains)." }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Biology (Campbell & Reece).",
+    "Smithsonian National Museum of Natural History: Primate Characteristics."
+  ]
+}

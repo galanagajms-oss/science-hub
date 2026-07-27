@@ -1,0 +1,17 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Outer Ring (The G / Magnifying Glass) -->
+    <path d="M85,50 A35,35 0 1,1 70,20" fill="none" stroke="#2D5A27" stroke-width="6" stroke-linecap="round"/>
+    <line x1="75" y1="75" x2="95" y2="95" stroke="#2D5A27" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- The J (Microscope Arm / Hook) -->
+    <path d="M35,30 V60 Q35,70 25,70" fill="none" stroke="#2C3333" stroke-width="5" stroke-linecap="round"/>
+    
+    <!-- The B (Integrated DNA Helix) -->
+    <path d="M45,30 Q65,30 65,45 Q65,55 45,55 Q65,55 65,70 Q65,80 45,80" fill="none" stroke="#2D5A27" stroke-width="5" stroke-linecap="round"/>
+    <line x1="45" y1="30" x2="45" y2="80" stroke="#2C3333" stroke-width="5" stroke-linecap="round"/>
+    
+    <!-- Small Science Details (Atoms/Cells) -->
+    <circle cx="65" cy="45" r="3" fill="#2D5A27"/>
+    <circle cx="65" cy="70" r="3" fill="#2D5A27"/>
+    <circle cx="35" cy="30" r="3" fill="#2C3333"/>
+</svg>

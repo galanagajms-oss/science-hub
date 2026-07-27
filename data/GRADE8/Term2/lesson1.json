@@ -1,0 +1,43 @@
+{
+  "title": "Elements and Compounds as Pure Substances",
+  "competency": "Describe the properties of pure substances as: having fixed chemical composition, examples of which are elements and compounds; and that all the atoms of an element have a unique number of protons.",
+  "objectives": [
+    "Define pure substances and identify their key characteristics.",
+    "Differentiate between elements and compounds.",
+    "Explain the concept of fixed chemical composition in compounds.",
+    "Recognize that the number of protons (atomic number) is unique to every element."
+  ],
+  "introduction": "In the world of chemistry, matter is classified based on its purity. While many things we see are mixtures, some substances are 'pure.' Pure substances have a constant composition and distinct properties that do not change. These are further divided into two groups: elements and compounds.",
+  "content": "<h3>1. What is a Pure Substance?</h3><p>A <b>Pure Substance</b> is a form of matter that has a constant (fixed) chemical composition and characteristic properties. Unlike mixtures, you cannot separate a pure substance into other types of matter using physical means like filtering or boiling.</p><h3>2. Elements: The Simplest Form</h3><p>An <b>Element</b> is a pure substance that consists of only one type of atom. It cannot be broken down into simpler substances by chemical means.</p><ul><li><b>Unique Protons:</b> The most important property of an element is that all its atoms have the <b>same number of protons</b> in the nucleus. This is called the <i>Atomic Number</i>. No two different elements have the same number of protons.</li></ul><h3>3. Compounds: Chemically Combined</h3><p>A <b>Compound</b> is a pure substance made of two or more different elements that are chemically bonded together.</p><ul><li><b>Fixed Composition:</b> Compounds always contain the same elements in the same <b>fixed proportion</b> by mass. For example, pure water is always made of 2 hydrogen atoms and 1 oxygen atom (H2O). If you change the ratio, you change the substance.</li><li><b>New Properties:</b> A compound has physical and chemical properties that are different from the elements that make it up.</li></ul>",
+  "examples": [
+    {
+      "title": "Elements (Pure Atoms)",
+      "description": "Gold (Au) consists only of gold atoms, each having 79 protons. Oxygen (O2) consists only of oxygen atoms, each having 8 protons."
+    },
+    {
+      "title": "Compounds (Fixed Ratios)",
+      "description": "Table Salt (NaCl) is a compound. It is always 50% Sodium and 50% Chlorine by atom count. Even though Sodium is a reactive metal and Chlorine is a toxic gas, their compound (Salt) is safe to eat."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Pure Substance", "definition": "Matter that has a uniform and definite composition." },
+    { "term": "Chemical Bond", "definition": "The force of attraction that holds atoms together in a compound." },
+    { "term": "Atomic Number", "definition": "The number of protons in the nucleus which defines the identity of an element." }
+  ],
+  "keyConcepts": [
+    "Pure substances include both elements and compounds.",
+    "The identity of an element is determined solely by its number of protons.",
+    "Compounds are formed in fixed ratios and can only be separated by chemical reactions."
+  ],
+  "summary": "Pure substances are categorized into elements and compounds. Elements are made of one type of atom with a unique number of protons. Compounds are made of different elements chemically combined in fixed ratios. Both are distinct from mixtures because their chemical composition is constant.",
+  "selfCheck": [
+    { "q": "What defines the unique identity of an element?", "a": "The number of protons (Atomic Number)." },
+    { "q": "Can a compound be separated into its elements by filtering it?", "a": "No, it can only be separated by chemical means/reactions." },
+    { "q": "Why is water (H2O) considered a pure substance and not a mixture?", "a": "Because it has a fixed chemical composition that is always the same." }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Chemistry: Matter and Change (Buthelezi et al.).",
+    "Purdue University: Elements, Compounds, and Mixtures."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Distribution of the Continents and Oceans",
+  "competency": "Identify what proportion of the Earth's surface is covered with water as opposed to land; relate the distribution of continents and oceans to the presence of oceanic crust and continental crust.",
+  "objectives": [
+    "Identify the percentage of land versus water on Earth's surface.",
+    "Compare and contrast continental crust and oceanic crust.",
+    "Explain how the density and thickness of the crust determine the location of oceans and continents.",
+    "Describe the composition of the two main types of crust."
+  ],
+  "introduction": "From space, Earth is often called the 'Blue Planet.' This is because most of its surface is covered by vast oceans. However, underneath these waters and beneath our feet lies the Earth's crust. In this lesson, we will explore why some parts of the crust form high continents while others form deep ocean basins.",
+  "content": "<h3>1. Land vs. Water Distribution</h3><p>The Earth's surface is not evenly divided. Approximately <b>71%</b> of the Earth's surface is covered by water (mostly oceans), while only about <b>29%</b> consists of land (continents and islands). Most of the landmass is concentrated in the Northern Hemisphere.</p><h3>2. Two Types of Crust</h3><p>The Earth's outermost layer, the lithosphere, contains two distinct types of crust that differ in their physical and chemical properties:</p><ul><li><b>Continental Crust:</b> This makes up the continents. It is relatively <b>thick</b> (35-70 km) but <b>less dense</b>. It is primarily composed of <i>granite</i> (a light-colored igneous rock).</li><li><b>Oceanic Crust:</b> This makes up the ocean floors. It is relatively <b>thin</b> (5-10 km) but <b>more dense</b>. It is primarily composed of <i>basalt</i> (a dark, heavy volcanic rock).</li></ul><h3>3. Density and Elevation</h3><p>Why do oceans sit lower than continents? It comes down to <b>density</b>. Because oceanic crust is denser (heavier) than continental crust, it sinks deeper into the mantle. This creates low-lying basins where water collects. Continental crust, being less dense, 'floats' higher on the mantle, creating the dry land we live on.</p>",
+  "examples": [
+    {
+      "title": "The Mariana Trench vs. Mt. Everest",
+      "description": "The Mariana Trench (Oceanic Crust) is over 11,000 meters deep because the dense basaltic crust sits very low. Mt. Everest (Continental Crust) reaches over 8,800 meters high because the thick, light granitic crust sits high."
+    },
+    {
+      "title": "Hemispheric Difference",
+      "description": "The Northern Hemisphere is often called the 'Land Hemisphere' because it contains most of the continents, while the Southern Hemisphere is the 'Water Hemisphere' due to the dominance of the Pacific and Indian Oceans."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Lithosphere", "definition": "The rigid outer part of the earth, consisting of the crust and upper mantle." },
+    { "term": "Basalt", "definition": "A dark-colored, fine-grained, igneous rock that makes up the oceanic crust." },
+    { "term": "Granite", "definition": "A light-colored, coarse-grained, igneous rock that makes up the continental crust." }
+  ],
+  "keyConcepts": [
+    "Water covers more than two-thirds of the Earth's surface.",
+    "Continental crust is thicker and less dense than oceanic crust.",
+    "The difference in density between the two types of crust is the reason we have deep ocean basins and high continents."
+  ],
+  "summary": "Earth's surface is dominated by water (71%) over land (29%). This distribution is governed by the two types of crust: thick, light granitic continental crust and thin, dense basaltic oceanic crust. The denser oceanic crust sits lower in the Earth's mantle, forming the basins that hold our oceans.",
+  "selfCheck": [
+    { "q": "What percentage of the Earth's surface is covered by water?", "a": "Approximately 71%" },
+    { "q": "Which type of crust is denser: Continental or Oceanic?", "a": "Oceanic Crust" },
+    { "q": "What is the primary rock type that makes up the continental crust?", "a": "Granite" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Earth: An Introduction to Physical Geology (Tarbuck & Lutgens).",
+    "National Geographic: The Earth's Crust."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Work and Power",
+  "competency": "Recognize that work is done when a force causes the displacement of an object; recognize that power is the rate of doing work; and explain that the mechanical energy of an object is the sum of the kinetic energy and the potential energy available to do work.",
+  "objectives": [
+    "Define 'Work' in a scientific context.",
+    "Identify the conditions necessary for work to be done on an object.",
+    "Define 'Power' as the rate at which work is performed.",
+    "Calculate Work and Power using their respective formulas.",
+    "Explain the concept of Total Mechanical Energy."
+  ],
+  "introduction": "In everyday language, 'work' refers to any task that requires effort. However, in Science, work has a very specific definition. You might be exhausted from pushing against a brick wall, but if the wall doesn't move, you haven't done any 'work' in the eyes of physics. This lesson explores how force, distance, and time combine to define Work and Power.",
+  "content": "<h3>1. The Scientific Definition of Work</h3><p>In Physics, <b>Work</b> is done only when a force is applied to an object and that object moves in the same direction as the force.</p><ul><li><b>Formula:</b> Work (W) = Force (F) × Displacement (d)</li><li><b>Unit:</b> The unit for work is the <b>Joule (J)</b>. 1 Joule = 1 Newton-meter.</li><li><b>Conditions for Work:</b><ol><li>A force must be applied.</li><li>The object must move (displacement).</li><li>The force and the movement must be in the <b>same direction</b>.</li></ol></li></ul><h3>2. Power: How Fast is the Work Done?</h3><p><b>Power</b> is the rate at which work is done or the rate at which energy is transformed. It tells us how 'fast' the work is happening.</p><ul><li><b>Formula:</b> Power (P) = Work (W) / Time (t)</li><li><b>Unit:</b> The standard unit of power is the <b>Watt (W)</b>. 1 Watt = 1 Joule per second.</li><li>A more powerful machine can do the same amount of work in less time than a less powerful one.</li></ul><h3>3. Total Mechanical Energy (ME)</h3><p>Mechanical energy is the energy acquired by objects upon which work is done. It is the sum of the energy in motion (Kinetic) and the energy stored (Potential).</p><ul><li><b>Formula:</b> ME = KE + PE</li><li>The total mechanical energy of an object is the energy available to do work.</li></ul>",
+  "examples": [
+    {
+      "title": "Calculating Work",
+      "description": "If you lift a 50N box to a height of 2 meters, you have done work. W = 50N × 2m = 100 Joules."
+    },
+    {
+      "title": "Work vs. No Work",
+      "description": "Scenario A: Pushing a grocery cart 10 meters (Work is done). Scenario B: Carrying a heavy bag while walking horizontally (No work is done on the bag because the lifting force is vertical but the motion is horizontal)."
+    },
+    {
+      "title": "Calculating Power",
+      "description": "If a person does 200J of work in 4 seconds, their power is: P = 200J / 4s = 50 Watts."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Displacement", "definition": "The distance an object has moved from its original position." },
+    { "term": "Joule (J)", "definition": "The unit of work and energy." },
+    { "term": "Watt (W)", "definition": "The unit of power, equivalent to one joule per second." }
+  ],
+  "keyConcepts": [
+    "No movement means no work is done, regardless of the force applied.",
+    "Power is inversely proportional to time: less time to do work means more power.",
+    "Mechanical energy represents the total capacity of a system to perform work."
+  ],
+  "summary": "Work is the product of force and displacement in the same direction. Power measures the speed at which this work is completed. Together, the potential and kinetic energy of an object make up its total mechanical energy, which defines its ability to do work on other objects.",
+  "selfCheck": [
+    { "q": "If you push a wall with 100N of force and it does not move, how much work is done?", "a": "Zero Joules (0 J)" },
+    { "q": "What is the unit used to measure Power?", "a": "Watt (W)" },
+    { "q": "What is the formula for Total Mechanical Energy?", "a": "ME = KE + PE" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Physics: Principles and Problems (Merrill).",
+    "The Physics Classroom: Work, Energy, and Power."
+  ]
+}

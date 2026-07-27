@@ -1,0 +1,43 @@
+{
+  "title": "Levels of Biological Organization",
+  "competency": "Use a labelled diagram to describe the connections between the levels of biological organization to one another from cells to the biosphere.",
+  "objectives": [
+    "Identify the different levels of biological organization.",
+    "Describe each level from the simplest (cell) to the most complex (biosphere).",
+    "Explain how higher levels of organization depend on the lower levels.",
+    "Give examples of each level in the human body and the environment."
+  ],
+  "introduction": "Nature is organized like a building. Just as bricks form walls, and walls form rooms, and rooms form a house, life is built in a specific hierarchy. This 'Levels of Biological Organization' helps scientists understand how the smallest unit of life contributes to the survival of the entire planet.",
+  "content": "<h3>1. The Staircase of Life</h3><p>Biological organization starts from the microscopic and moves toward the global scale:</p><ul><li><b>Cell:</b> The basic unit of life (e.g., a single nerve cell).</li><li><b>Tissue:</b> A group of similar cells performing a specific function (e.g., muscle tissue).</li><li><b>Organ:</b> Different tissues working together (e.g., the Heart).</li><li><b>Organ System:</b> A group of organs performing a major body function (e.g., Circulatory System).</li><li><b>Organism:</b> An individual living thing (e.g., a Human, a Dog, or a Tree).</li></ul><h3>2. Beyond the Individual</h3><p>Once we look outside a single organism, the organization continues into the environment:</p><ul><li><b>Population:</b> A group of organisms of the <i>same species</i> living in an area (e.g., a school of tuna).</li><li><b>Community:</b> Different populations of <i>different species</i> living together (e.g., tuna, sharks, and corals in a reef).</li><li><b>Ecosystem:</b> The community (living) plus the non-living things like water, sunlight, and soil.</li><li><b>Biosphere:</b> All the ecosystems on Earth where life exists.</li></ul><h3>3. Interconnectedness</h3><p>Each level is more complex than the one below it. If one level is damaged (for example, if cells become cancerous), it can affect the tissue, the organ, and eventually the entire organism.</p>",
+  "examples": [
+    {
+      "title": "The Respiratory System",
+      "description": "Lung Cells -> Lung Tissue -> The Lungs (Organ) -> Respiratory System (Organ System) -> The Human (Organism)."
+    },
+    {
+      "title": "The Philippine Eagle",
+      "description": "One eagle is an Organism. A group of eagles in Davao is a Population. The eagles, the trees they nest in, and the monkeys they eat form a Community."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Biotic", "definition": "The living components of an ecosystem." },
+    { "term": "Abiotic", "definition": "The non-living components (sun, air, water) of an ecosystem." },
+    { "term": "Species", "definition": "A group of similar organisms that can breed and produce fertile offspring." }
+  ],
+  "keyConcepts": [
+    "Life is organized into a hierarchical structure of increasing complexity.",
+    "The cell is the starting point of biological organization.",
+    "An ecosystem includes both the living community and the physical environment."
+  ],
+  "summary": "Biological organization is a way of looking at life from the smallest unit to the entire planet. By understanding these levels, we can see how individual cells are connected to the global environment and why protecting even the smallest parts of nature is important for the whole biosphere.",
+  "selfCheck": [
+    { "q": "What is the simplest level of biological organization?", "a": "The Cell" },
+    { "q": "What level is formed when different populations of species live together?", "a": "Community" },
+    { "q": "Which is more complex: an Organ or a Tissue?", "a": "An Organ (it is made of multiple tissues)." }
+  ],
+  "references": [
+    "DepEd MATATAG Science 7 Budget of Work (2023).",
+    "Biology: Life on Earth (Audesirk et al.).",
+    "National Geographic Education: Levels of Organization."
+  ]
+}

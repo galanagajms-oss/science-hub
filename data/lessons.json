@@ -1,0 +1,62 @@
+{
+  "grade7": {
+    "quarter1": [
+      {
+        "lesson": 1,
+        "title": "Scientific Investigation",
+        "competency": "",
+        "objectives": "",
+        "introduction": "",
+        "content": "",
+        "examples": "",
+        "realLifeApplication": "",
+        "keyTerms": "",
+        "keyConcepts": "",
+        "activities": "",
+        "selfCheck": "",
+        "summary": "",
+        "references": ""
+      },
+      {
+        "lesson": 2,
+        "title": "Scientific Models",
+        "competency": "",
+        "objectives": "",
+        "introduction": "",
+        "content": "",
+        "examples": "",
+        "realLifeApplication": "",
+        "keyTerms": "",
+        "keyConcepts": "",
+        "activities": "",
+        "selfCheck": "",
+        "summary": "",
+        "references": ""
+      }
+    ],
+    "quarter2": [],
+    "quarter3": [],
+    "quarter4": []
+  },
+
+  "grade8": {
+    "quarter1": [],
+    "quarter2": [],
+    "quarter3": [],
+    "quarter4": []
+  },
+
+  "grade9": {
+    "quarter1": [],
+    "quarter2": [],
+    "quarter3": [],
+    "quarter4": []
+  },
+
+  "grade10": {
+    "quarter1": [],
+    "quarter2": [],
+    "quarter3": [],
+    "quarter4": []
+  }
+}

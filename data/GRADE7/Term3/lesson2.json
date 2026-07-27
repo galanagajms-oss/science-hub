@@ -1,0 +1,44 @@
+{
+  "title": "Earthquakes and System Models",
+  "competency": "Use models or illustrations to explain how movements along faults generate earthquakes; classify geological faults; and assess the risk of earthquakes in the community using PHIVOLCS data.",
+  "objectives": [
+    "Differentiate between the focus and the epicenter of an earthquake.",
+    "Classify the three types of faults: normal, reverse, and strike-slip.",
+    "Explain the relationship between fault movement and earthquake generation.",
+    "Distinguish between earthquake magnitude and intensity.",
+    "Describe how underwater earthquakes can generate tsunamis."
+  ],
+  "introduction": "The Philippines is located along the Pacific Ring of Fire, making it highly prone to earthquakes. These sudden shakings of the ground are caused by the movement of massive slabs of rocks along cracks in the Earth's crust called 'Faults'. Understanding how these systems work is vital for disaster preparedness and safety.",
+  "content": "<h3>1. Anatomy of an Earthquake</h3><ul><li><b>Focus (Hypocenter):</b> The actual point inside the Earth where the rock breaks and the energy is released.</li><li><b>Epicenter:</b> The point on the Earth’s surface directly above the focus. This is usually where the strongest shaking is felt.</li></ul><h3>2. Types of Faults</h3><p>Faults are classified based on the direction of the movement of the rocks:</p><ul><li><b>Normal Fault:</b> The block of rock above the fault (hanging wall) moves <b>down</b>. This happens due to tension (pulling apart).</li><li><b>Reverse Fault:</b> The block of rock moves <b>up</b>. This happens due to compression (pushing together).</li><li><b>Strike-Slip Fault:</b> The blocks of rock slide <b>past each other</b> horizontally (e.g., the Philippine Fault System).</li></ul><h3>3. Magnitude vs. Intensity</h3><ul><li><b>Magnitude:</b> Measures the energy released at the source. It is calculated using seismographs and expressed in Arabic numerals (e.g., 6.5). It does not change with distance.</li><li><b>Intensity:</b> Measures the strength of shaking and damage at a specific location. It is expressed in Roman Numerals (e.g., VII) using the <i>PHIVOLCS Earthquake Intensity Scale (PEIS)</i>. It decreases as you move away from the epicenter.</li></ul><h3>4. Tsunamis</h3><p>A tsunami is a series of giant sea waves caused by an underwater earthquake, landslide, or volcanic eruption. For an earthquake to cause a tsunami, the fault movement must be <b>vertical</b> (displacing the water column) and occur under the ocean floor.</p>",
+  "examples": [
+    {
+      "title": "PHIVOLCS FaultFinder",
+      "description": "An online tool used in the Philippines to identify the location of active faults. It helps residents determine how far their homes are from known fault lines like the West Valley Fault."
+    },
+    {
+      "title": "The 1990 Luzon Earthquake",
+      "description": "A Magnitude 7.7 earthquake caused by a strike-slip movement along the Philippine Fault, resulting in a 125km ground rupture."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Fault", "definition": "A break or crack in the Earth's crust where significant movement has taken place." },
+    { "term": "Seismograph", "definition": "An instrument used to detect and record the waves produced by an earthquake." },
+    { "term": "Active Fault", "definition": "A fault that has moved within the last 10,000 years and is likely to move again." }
+  ],
+  "keyConcepts": [
+    "Earthquakes occur when stress built up along a fault is suddenly released.",
+    "The depth of the focus determines how much energy reaches the surface.",
+    "Magnitude is a fixed value, while intensity varies by location and ground type."
+  ],
+  "summary": "Earthquakes are natural geological processes resulting from movements along faults. By classifying faults and understanding the difference between magnitude and intensity, we can better assess risks. Tools like the PHIVOLCS FaultFinder and disaster readiness plans are essential for safety in earthquake-prone regions.",
+  "selfCheck": [
+    { "q": "What do you call the point on the surface directly above where an earthquake starts?", "a": "Epicenter" },
+    { "q": "Which type of fault involves horizontal sliding of rock blocks?", "a": "Strike-slip fault" },
+    { "q": "Does earthquake intensity increase or decrease as you move further from the epicenter?", "a": "Decrease" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 7 Budget of Work (2023).",
+    "PHIVOLCS - Philippine Institute of Volcanology and Seismology Official Website.",
+    "Earth Science (Tarbuck and Lutgens)."
+  ]
+}

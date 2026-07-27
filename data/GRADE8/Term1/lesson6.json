@@ -1,0 +1,43 @@
+{
+  "title": "Subatomic Particles",
+  "competency": "Differentiate the subatomic particles protons, neutrons, and electrons in terms of their symbol, mass, charge, and location within an atom.",
+  "objectives": [
+    "Identify the three subatomic particles: protons, neutrons, and electrons.",
+    "Compare subatomic particles based on their mass, charge, and symbol.",
+    "Describe the location of each subatomic particle within the atom.",
+    "Explain how the number of protons defines the identity of an atom."
+  ],
+  "introduction": "While atoms are the smallest unit of an element, they are made of even smaller components called subatomic particles. Protons, neutrons, and electrons are the building blocks that determine the properties and behavior of every atom in the universe.",
+  "content": "<h3>1. Comparison of Subatomic Particles</h3><p>To understand the atom, we must look at its three primary components. Scientists use a comparison table to track their properties:</p><table border='1' style='width:100%; border-collapse: collapse; text-align: center;'><thead><tr style='background: var(--accent);'><th>Particle</th><th>Symbol</th><th>Charge</th><th>Approx. Mass (amu)</th><th>Location</th></tr></thead><tbody><tr><td><b>Proton</b></td><td>p+</td><td>Positive (+1)</td><td>1.007 (≈ 1)</td><td>Inside the Nucleus</td></tr><tr><td><b>Neutron</b></td><td>n0</td><td>Neutral (0)</td><td>1.008 (≈ 1)</td><td>Inside the Nucleus</td></tr><tr><td><b>Electron</b></td><td>e-</td><td>Negative (-1)</td><td>0.0005 (≈ 0)</td><td>Electron Cloud/Shells</td></tr></tbody></table><h3>2. The Nucleus and the Electron Cloud</h3><ul><li><b>The Nucleus:</b> Contains protons and neutrons. Because it holds these particles, the nucleus contains almost 99.9% of the atom's mass but occupies a very tiny fraction of its volume.</li><li><b>The Electron Cloud:</b> The space around the nucleus where electrons move. Even though electrons have almost no mass, they determine the size (volume) of the atom.</li></ul><h3>3. Identity of the Atom</h3><p>The <b>Atomic Number</b> of an element is equal to the number of protons in its nucleus. This number is unique to each element—for example, every Carbon atom has exactly 6 protons. If you change the number of protons, you change the element itself.</p>",
+  "examples": [
+    {
+      "title": "The Helium Atom",
+      "description": "A Helium atom has 2 protons and 2 neutrons in its nucleus, and 2 electrons orbiting in the shells. Its atomic number is 2."
+    },
+    {
+      "title": "Mass Comparison",
+      "description": "Imagine the proton is the size of a basketball. In comparison, the electron would be the size of a small pea. It takes about 1,836 electrons to equal the mass of just one proton!"
+    }
+  ],
+  "keyTerms": [
+    { "term": "Subatomic", "definition": "Particles that are smaller than an atom." },
+    { "term": "amu", "definition": "Atomic Mass Unit; a tiny unit of mass used to describe the weight of atoms and subatomic particles." },
+    { "term": "Atomic Number", "definition": "The number of protons in the nucleus of an atom." }
+  ],
+  "keyConcepts": [
+    "Protons and neutrons are the heavy particles in the center (nucleus).",
+    "Electrons are the light particles that determine the atom's chemical reactivity.",
+    "In a neutral atom, the number of protons equals the number of electrons."
+  ],
+  "summary": "Atoms are composed of protons (positive), neutrons (neutral), and electrons (negative). Protons and neutrons provide the mass and are located in the nucleus, while electrons occupy the shells around the nucleus. The number of protons is the 'identity card' of an element.",
+  "selfCheck": [
+    { "q": "Which subatomic particle has a negative charge?", "a": "Electron" },
+    { "q": "Where are neutrons located in the atom?", "a": "Inside the Nucleus" },
+    { "q": "Which two subatomic particles have approximately the same mass?", "a": "Protons and Neutrons" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Chemistry: The Central Science (Brown et al.).",
+    "Science 8 Learner's Module: The Particle Nature of Matter."
+  ]
+}

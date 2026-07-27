@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reviewer | Science MATATAG Hub</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav>
+    <a href="index.html" class="logo-container">
+        <!-- Unified Logo -->
+        <svg width="50" height="50" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <path d="M85,50 A35,35 0 1,1 70,20" fill="none" stroke="#2D5A27" stroke-width="6" stroke-linecap="round"/>
+            <line x1="75" y1="75" x2="95" y2="95" stroke="#2D5A27" stroke-width="6" stroke-linecap="round"/>
+            <path d="M35,30 V60 Q35,70 25,70" fill="none" stroke="#2C3333" stroke-width="5" stroke-linecap="round"/>
+            <path d="M45,30 Q65,30 65,45 Q65,55 45,55 Q65,55 65,70 Q65,80 45,80" fill="none" stroke="#2D5A27" stroke-width="5" stroke-linecap="round"/>
+            <line x1="45" y1="30" x2="45" y2="80" stroke="#2C3333" stroke-width="5" stroke-linecap="round"/>
+            <circle cx="65" cy="45" r="3" fill="#2D5A27"/>
+            <circle cx="65" cy="70" r="3" fill="#2D5A27"/>
+            <circle cx="35" cy="30" r="3" fill="#2C3333"/>
+        </svg>
+        <h2>Science MATATAG Hub</h2>
+    </a>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+    </ul>
+</nav>
+
+    <div class="container lesson-layout">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <h4>Reviewer Content</h4>
+            <a href="#competency">Competency</a>
+            <a href="#objectives">Objectives</a>
+            <a href="#introduction">Introduction</a>
+            <a href="#discussion">Discussion</a>
+            <a href="#examples">Examples & Applications</a>
+            <a href="#keyterms">Key Terms</a>
+            <a href="#concepts">Key Concepts</a>
+            <a href="#summary">Summary</a>
+            <a href="#selfcheck">Self-Check</a>
+            <a href="#references">References</a>
+        </aside>
+
+        <!-- Main Content -->
+        <section class="reviewer-content">
+            <h1 id="lessonTitle" style="color: var(--primary); margin-bottom: 20px;">Loading...</h1>
+            
+            <div id="competency">
+                <h2>Learning Competency</h2>
+                <p id="compText"></p>
+            </div>
+
+            <div id="objectives">
+                <h2>Objectives</h2>
+                <ul id="objText" style="padding-left: 20px;"></ul>
+            </div>
+
+            <div id="introduction">
+                <h2>Introduction</h2>
+                <p id="introText"></p>
+            </div>
+
+            <div id="discussion">
+                <h2>Discussion</h2>
+                <div id="contentText"></div>
+            </div>
+
+            <div id="examples">
+                <h2>Examples & Real-Life Applications</h2>
+                <div id="exText"></div>
+            </div>
+
+            <div id="keyterms">
+                <h2>Key Terms</h2>
+                <div id="termsText"></div>
+            </div>
+
+            <div id="concepts">
+                <h2>Key Concepts</h2>
+                <ul id="conceptsList" style="padding-left: 20px;"></ul>
+            </div>
+
+            <div id="summary">
+                <h2>Summary</h2>
+                <p id="summaryText" style="font-style: italic; background: var(--accent); padding: 15px; border-radius: 8px;"></p>
+            </div>
+
+            <div id="selfcheck">
+                <h2>Self-Check</h2>
+                <div id="scText"></div>
+            </div>
+
+            <div id="references">
+                <h2>References</h2>
+                <ul id="refList" style="padding-left: 20px; font-size: 0.9rem; color: #666;"></ul>
+            </div>
+
+            <div style="margin-top: 50px; display: flex; justify-content: space-between;">
+                <button onclick="history.back()" class="btn">Back to Lessons</button>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        &copy; 2026 Science MATATAG Hub | Developed by James B. Galanaga, LPT
+    </footer>
+
+    <script src="../js/script.js"></script>
+    <script>window.onload = loadFullLesson;</script>
+</body>
+</html>

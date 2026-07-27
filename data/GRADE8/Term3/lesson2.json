@@ -1,0 +1,43 @@
+{
+  "title": "Tides and the Sun-Earth-Moon System",
+  "competency": "Relate the relative movements of the Earth, Moon, and Sun with the occurrence of tides; and identify situations where tidal differences could be exploited to generate renewable energy.",
+  "objectives": [
+    "Explain how the gravitational pull of the Moon and the Sun causes tides.",
+    "Differentiate between Spring Tides and Neap Tides based on the alignment of celestial bodies.",
+    "Describe the daily cycle of high and low tides.",
+    "Identify the potential of tidal differences as a source of renewable energy."
+  ],
+  "introduction": "If you have ever spent a day at the beach, you may have noticed that the water level rises and falls at different times. This rhythmic rise and fall of the ocean's surface is called a 'Tide.' Tides are not caused by the wind, but by the invisible tug-of-war between the Earth, the Moon, and the Sun.",
+  "content": "<h3>1. Gravitational Pull and Bulges</h3><p>Tides are caused primarily by the <b>gravitational pull of the Moon</b>. Because the Moon is much closer to Earth than the Sun, its gravity has a much stronger effect on our oceans. This pull creates a 'bulge' of water on the side of the Earth facing the Moon, and another bulge on the opposite side due to centrifugal force. These bulges represent <b>High Tides</b>, while the areas in between experience <b>Low Tides</b>.</p><h3>2. Spring Tides: Maximum Range</h3><p>When the Sun, Earth, and Moon are aligned in a <b>straight line</b> (during New Moon and Full Moon phases), their gravitational pulls combine. This results in the highest high tides and the lowest low tides. This phenomenon is called a <b>Spring Tide</b>. During this time, the <i>tidal range</i> (the difference between high and low tide) is at its maximum.</p><h3>3. Neap Tides: Minimum Range</h3><p>When the Sun and Moon are at <b>right angles (90°)</b> relative to the Earth (during First Quarter and Third Quarter Moon phases), their gravitational pulls partially cancel each other out. This results in <b>Neap Tides</b>, where the high tides are lower and the low tides are higher than usual. The tidal range is at its minimum.</p><h3>4. Tidal Energy: A Renewable Resource</h3><p>The constant movement of tides carries a massive amount of kinetic energy. In areas with large tidal ranges, scientists and engineers can build <b>Tidal Power Plants</b>. As the water flows in and out, it turns turbines to generate electricity. This is a clean, <b>renewable energy</b> source because tides are predictable and will never run out as long as the Moon orbits the Earth.</p>",
+  "examples": [
+    {
+      "title": "Predicting Tides in the Philippines",
+      "description": "Filipino fishermen often use 'Tide Tables' provided by NAMRIA to determine the best time to go out to sea or harvest shellfish, as many marine activities depend on the water level."
+    },
+    {
+      "title": "Tidal Turbines",
+      "description": "Similar to underwater wind turbines, these devices are placed in narrow channels where tidal currents are strong. The San Bernardino Strait in the Philippines has been identified as a potential site for generating tidal energy."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Tidal Range", "definition": "The vertical difference in height between consecutive high and low tides." },
+    { "term": "Spring Tide", "definition": "A tide with the greatest difference between high and low water that occurs during a new or full moon." },
+    { "term": "Neap Tide", "definition": "A tide with the least difference between high and low water that occurs during the first and third quarters of the moon." }
+  ],
+  "keyConcepts": [
+    "The Moon's gravity is the primary force driving Earth's tides.",
+    "The alignment of the Sun and Moon determines the intensity of the tidal range.",
+    "Tidal differences offer a sustainable way to produce electricity without burning fossil fuels."
+  ],
+  "summary": "Tides are the result of gravitational interactions in the Sun-Earth-Moon system. When these bodies align, we experience extreme Spring Tides; when they are at right angles, we see milder Neap Tides. Beyond their natural cycle, tides represent a powerful opportunity for generating renewable energy for our communities.",
+  "selfCheck": [
+    { "q": "Which celestial body has a stronger influence on Earth's tides: the Sun or the Moon?", "a": "The Moon (because it is much closer to Earth)." },
+    { "q": "During which two moon phases do Spring Tides occur?", "a": "New Moon and Full Moon" },
+    { "q": "What do we call the renewable energy generated from the movement of ocean water?", "a": "Tidal Energy" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "NAMRIA - National Mapping and Resource Information Authority (Tide Predictions).",
+    "Oceanography: An Invitation to Marine Science (Tom Garrison)."
+  ]
+}

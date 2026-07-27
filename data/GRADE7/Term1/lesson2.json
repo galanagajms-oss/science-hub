@@ -1,0 +1,39 @@
+{
+  "title": "Scientific Investigations",
+  "competency": "Follow appropriate steps of a scientific investigation.",
+  "objectives": [
+    "Identify the steps of a scientific investigation.",
+    "Define independent, dependent, and controlled variables.",
+    "Explain the importance of making accurate measurements using standard units.",
+    "Formulate a simple conclusion based on collected data."
+  ],
+  "introduction": "How do scientists solve problems? They don't just guess; they follow a systematic process called a 'Scientific Investigation.' This method ensures that their results are reliable, fair, and can be tested by others.",
+  "content": "<h3>The Steps of Scientific Investigation</h3><p>To find answers, scientists follow these essential steps:</p><ul><li><b>1. Aim or Problem:</b> This is the question you want to answer. It must be specific and measurable (e.g., 'How does sunlight affect plant growth?').</li><li><b>2. Hypothesis:</b> An educated guess or prediction of the outcome.</li><li><b>3. Materials and Equipment:</b> A list of all tools and substances needed for the experiment.</li><li><b>4. Method or Procedure:</b> The step-by-step instructions on how to conduct the experiment.</li><li><b>5. Results and Data:</b> Recording what happened using tables, charts, or descriptions.</li><li><b>6. Conclusion:</b> Answering the original question based on the evidence collected.</li></ul><h3>Understanding Variables</h3><p>A fair test only changes one thing at a time:</p><ul><li><b>Independent Variable:</b> The factor you change (e.g., amount of light).</li><li><b>Dependent Variable:</b> The factor you measure (e.g., height of the plant).</li><li><b>Controlled Variables:</b> The factors you keep exactly the same (e.g., amount of water, type of soil).</li></ul><h3>Measurement and Accuracy</h3><p>Scientists use standard units (Metric System) like meters (m), grams (g), and liters (L) to ensure that measurements are consistent everywhere in the world.</p>",
+  "examples": [
+    {
+      "title": "The Bread Mold Experiment",
+      "description": "Problem: Does moisture make bread mold grow faster? Independent Variable: Amount of water sprayed. Dependent Variable: Surface area of mold. Control: Same type of bread, same temperature."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Investigation", "definition": "A formal or systematic examination or research." },
+    { "term": "Variable", "definition": "Any factor, trait, or condition that can exist in differing amounts or types." },
+    { "term": "Data", "definition": "Facts and statistics collected together for reference or analysis." }
+  ],
+  "keyConcepts": [
+    "A scientific investigation must be a fair test.",
+    "Accurate measurements are crucial for valid results.",
+    "Conclusions must always be supported by the observed data."
+  ],
+  "summary": "Scientific investigation is a systematic way of testing ideas. By controlling variables and making precise measurements, we can discover facts about the natural world that are true and verifiable.",
+  "selfCheck": [
+    { "q": "What is the variable that you change in an experiment?", "a": "Independent Variable" },
+    { "q": "Why should we use standard units in measurement?", "a": "To ensure accuracy and consistency so that results can be understood globally." },
+    { "q": "What is the final step of a scientific investigation?", "a": "Conclusion" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 7 Budget of Work (2023).",
+    "Science 7 Learner's Material: Unit 1 - Scientific Inquiry.",
+    "International System of Units (SI) Handbook."
+  ]
+}

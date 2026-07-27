@@ -1,0 +1,43 @@
+{
+  "title": "Heat Transfer: Conduction, Convection, and Radiation",
+  "competency": "Explain the difference between heat and temperature; identify advantageous and disadvantageous examples of conduction, convection, and radiation; and explain these processes in terms of the particle model.",
+  "objectives": [
+    "Distinguish between heat and temperature.",
+    "Describe the three modes of heat transfer: conduction, convection, and radiation.",
+    "Explain how particles behave during heat transfer.",
+    "Identify real-life applications and consequences of heat transfer."
+  ],
+  "introduction": "Why does a metal spoon get hot in a bowl of soup? Why do we feel the warmth of a campfire without touching the flames? Heat is a form of energy that is always on the move, traveling from warmer objects to cooler ones until they reach the same temperature.",
+  "content": "<h3>1. Heat vs. Temperature</h3><ul><li><b>Temperature:</b> A measure of the average kinetic energy of the particles in a substance. It tells us how hot or cold something is (measured in Celsius or Kelvin).</li><li><b>Heat:</b> The total energy that transfers from a high-temperature object to a low-temperature object.</li></ul><h3>2. Conduction (Transfer through Solids)</h3><p>Heat transfer through direct contact. In terms of the <b>particle model</b>, fast-moving particles in the hot part of an object collide with slower-moving neighbors, passing the energy along.</p><ul><li><b>Conductors:</b> Materials that transfer heat easily (e.g., metals like copper and iron).</li><li><b>Insulators:</b> Materials that slow down heat transfer (e.g., wood, plastic, air).</li></ul><h3>3. Convection (Transfer through Fluids)</h3><p>Heat transfer in liquids and gases through the movement of the fluid itself. When a fluid is heated, it becomes less dense and rises, while cooler, denser fluid sinks to take its place, creating a <i>convection current</i>.</p><h3>4. Radiation (Transfer through Space)</h3><p>Heat transfer that does not require a medium (matter). Energy travels in the form of electromagnetic waves (infrared). This is how the Sun's heat reaches the Earth through the vacuum of space.</p>",
+  "examples": [
+    {
+      "title": "Cooking on a Stove",
+      "description": "The pan gets hot via Conduction (contact with the burner). The water inside boils via Convection (rising hot water). You feel the heat standing near it via Radiation."
+    },
+    {
+      "title": "Sea Breezes",
+      "description": "During the day, land heats up faster than water. The air above land rises (convection), and cool air from the sea moves in to replace it."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Thermal Equilibrium", "definition": "The state where two objects reach the same temperature and heat transfer stops." },
+    { "term": "Fluid", "definition": "A substance that can flow; includes both liquids and gases." },
+    { "term": "Infrared Waves", "definition": "A type of electromagnetic radiation that we feel as heat." }
+  ],
+  "keyConcepts": [
+    "Heat always flows from 'hot to cold'.",
+    "Conduction requires contact; Convection requires a fluid; Radiation requires nothing.",
+    "Materials that are good electrical conductors are usually good thermal conductors."
+  ],
+  "summary": "Heat transfer is the movement of thermal energy. It occurs via conduction in solids, convection in fluids, and radiation through space. Understanding these processes helps us design everything from insulated clothing to efficient cooling systems in our homes.",
+  "selfCheck": [
+    { "q": "Which mode of heat transfer involves the actual movement of matter (currents)?", "a": "Convection" },
+    { "q": "Why is the handle of a frying pan often made of plastic or wood?", "a": "Because they are insulators that slow down conduction, preventing burns." },
+    { "q": "How does heat from the Sun reach the Earth?", "a": "Through Radiation." }
+  ],
+  "references": [
+    "DepEd MATATAG Science 7 Budget of Work (2023).",
+    "Physics: Thermal Energy and Heat (Giamcoli).",
+    "NASA Science: How Heat Travels."
+  ]
+}

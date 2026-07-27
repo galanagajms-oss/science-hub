@@ -1,0 +1,43 @@
+{
+  "title": "Solutions, Solubility, and Concentration",
+  "competency": "Explain the role of solute and solvent in a solution and express the amount of solute present in a given volume of solvent.",
+  "objectives": [
+    "Differentiate between solute and solvent.",
+    "Describe the process of dissolving at the particle level.",
+    "Explain the factors that affect how fast a solid solute dissolves.",
+    "Identify acidic and basic solutions using litmus paper indicators."
+  ],
+  "introduction": "Why does sugar 'disappear' when stirred into water? It doesn't actually vanish; it forms a 'Solution.' Understanding solutions is vital because most of the chemical reactions in our bodies and in nature happen in liquid solutions.",
+  "content": "<h3>1. What is a Solution?</h3><p>A solution is a homogeneous mixture where one substance is distributed evenly within another. It has two parts:</p><ul><li><b>Solute:</b> The substance being dissolved (usually the smaller amount, like salt).</li><li><b>Solvent:</b> The substance that does the dissolving (usually the larger amount, like water). Water is known as the 'Universal Solvent'.</li></ul><h3>2. Factors Affecting Solubility</h3><p>How much or how fast a substance dissolves depends on several factors:</p><ul><li><b>Temperature:</b> Most solids dissolve faster and in larger amounts in hot liquids.</li><li><b>Stirring (Agitation):</b> Moving the particles helps the solvent reach the solute faster.</li><li><b>Particle Size:</b> Smaller pieces (like fine salt) dissolve faster than big chunks because they have more surface area.</li></ul><h3>3. Saturated vs. Unsaturated</h3><ul><li><b>Unsaturated:</b> A solution that can still dissolve more solute.</li><li><b>Saturated:</b> A solution that has dissolved the maximum amount of solute possible at a given temperature.</li></ul><h3>4. Acids and Bases</h3><p>Solutions can be categorized by their pH:</p><ul><li><b>Acids:</b> Often taste sour and turn blue litmus paper <b>RED</b>. (e.g., Vinegar, Lemon).</li><li><b>Bases:</b> Often taste bitter, feel slippery, and turn red litmus paper <b>BLUE</b>. (e.g., Soap, Antacid).</li></ul>",
+  "examples": [
+    {
+      "title": "Ocean Water",
+      "description": "The ocean is a massive solution where various salts (solutes) are dissolved in water (solvent)."
+    },
+    {
+      "title": "Soft Drinks",
+      "description": "Soda is a solution where gas (CO2) and sugar are dissolved in water."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Homogeneous", "definition": "A mixture that looks the same throughout." },
+    { "term": "Concentration", "definition": "The measure of how much solute is dissolved in a specific amount of solvent." },
+    { "term": "Solubility", "definition": "The ability of a substance to dissolve in a solvent." }
+  ],
+  "keyConcepts": [
+    "Water is the primary solvent in biological systems.",
+    "Concentration can be expressed qualitatively (dilute vs. concentrated) or quantitatively (percentage).",
+    "Acidity and alkalinity are properties of aqueous solutions."
+  ],
+  "summary": "Solutions are made of solutes and solvents. Their concentration and solubility are affected by physical factors like temperature and surface area. Scientists use indicators like litmus paper to identify the chemical nature of these solutions.",
+  "selfCheck": [
+    { "q": "If you stir sugar into water, which one is the solute?", "a": "Sugar" },
+    { "q": "What color does blue litmus paper turn when dipped in an acid?", "a": "Red" },
+    { "q": "Which dissolves faster: a sugar cube or a spoonful of powdered sugar?", "a": "Powdered sugar (due to more surface area)." }
+  ],
+  "references": [
+    "DepEd MATATAG Science 7 Budget of Work (2023).",
+    "Science 7 Learner's Material: Unit 1 - Mixtures and Solutions.",
+    "Chemistry: The Central Science (Brown et al.)."
+  ]
+}

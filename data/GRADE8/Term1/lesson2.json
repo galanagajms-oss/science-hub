@@ -1,0 +1,43 @@
+{
+  "title": "Heredity: Inheritance and Variation",
+  "competency": "Represent patterns of inheritance of a simple dominant/recessive characteristic through generations of a family and predict simple ratios of offspring genotypes and phenotypes in crosses involving dominant/recessive gene pairs.",
+  "objectives": [
+    "Define heredity, genes, alleles, genotypes, and phenotypes.",
+    "Differentiate between dominant and recessive traits.",
+    "Use Punnett squares to predict the probability of traits in offspring.",
+    "Represent inheritance patterns across generations using simple diagrams."
+  ],
+  "introduction": "Why do children often look like their parents? The answer lies in 'Heredity'—the passing of traits from one generation to the next. Through the study of genetics, we can predict the likelihood of specific characteristics, such as hair color or height, appearing in the next generation.",
+  "content": "<h3>1. Basic Genetic Terms</h3><ul><li><b>Gene:</b> A segment of DNA that determines a specific trait.</li><li><b>Allele:</b> Different forms of a gene (e.g., a gene for height might have a 'Tall' allele and a 'Short' allele).</li><li><b>Genotype:</b> The actual genetic makeup (the letters, like BB, Bb, or bb).</li><li><b>Phenotype:</b> The observable physical characteristic (like Brown eyes or Blue eyes).</li></ul><h3>2. Dominant vs. Recessive Traits</h3><p>Inherited traits are governed by rules of dominance:</p><ul><li><b>Dominant Trait:</b> A trait that hides or masks another trait. It is represented by a capital letter (e.g., 'T' for Tall).</li><li><b>Recessive Trait:</b> A trait that is hidden by a dominant one. It only appears if two recessive alleles are present. It is represented by a lowercase letter (e.g., 't' for Short).</li></ul><h3>3. Predicting Offspring: The Punnett Square</h3><p>A Punnett square is a grid used to calculate the probability of genotypes and phenotypes in offspring. By crossing the alleles of two parents, we can determine the ratio of the traits their children might inherit.</p><ul><li><b>Homozygous (Purebred):</b> Having two identical alleles (e.g., TT or tt).</li><li><b>Heterozygous (Hybrid):</b> Having two different alleles (e.g., Tt).</li></ul>",
+  "examples": [
+    {
+      "title": "Monohybrid Cross (Tt x Tt)",
+      "description": "If two heterozygous tall plants (Tt) are crossed, the resulting ratio is 3:1. This means there is a 75% chance the offspring will be Tall and a 25% chance they will be Short."
+    },
+    {
+      "title": "Earlobe Attachment",
+      "description": "Free earlobes (F) are dominant over attached earlobes (f). A person with 'Ff' will have free earlobes because the dominant allele masks the recessive one."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Heredity", "definition": "The transmission of traits from parents to offspring." },
+    { "term": "Allele", "definition": "One of two or more alternative forms of a gene." },
+    { "term": "Probability", "definition": "The mathematical chance that a specific outcome will occur." }
+  ],
+  "keyConcepts": [
+    "Traits are passed through genes located on chromosomes.",
+    "Dominant alleles are always expressed if present.",
+    "Phenotypic ratios help predict the physical appearance of a population."
+  ],
+  "summary": "Heredity is the process of passing genetic information from parents to offspring. By understanding dominant and recessive alleles and using tools like Punnett squares, we can represent and predict the patterns of inheritance for various characteristics across generations.",
+  "selfCheck": [
+    { "q": "If 'B' is for Brown eyes and 'b' is for blue eyes, what is the phenotype of an individual with the genotype 'Bb'?", "a": "Brown eyes" },
+    { "q": "What do you call an organism that has two different alleles for a trait?", "a": "Heterozygous" },
+    { "q": "In a cross between homozygous dominant (TT) and homozygous recessive (tt), what percentage of offspring will show the dominant trait?", "a": "100%" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Principles of Genetics (Snustad & Simmons).",
+    "Mendelian Inheritance Patterns, National Institutes of Health."
+  ]
+}

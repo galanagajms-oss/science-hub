@@ -1,0 +1,44 @@
+{
+  "title": "Properties of Light: Reflection and Refraction",
+  "competency": "Carry out guided investigations to describe and illustrate the reflection of light using plane and curved mirrors and the refraction of light using transparent blocks, lenses, and prisms with examples from everyday applications.",
+  "objectives": [
+    "Describe the behavior of light when it hits different surfaces.",
+    "Explain the Law of Reflection.",
+    "Differentiate between reflection in plane, concave, and convex mirrors.",
+    "Explain the concept of refraction and why light bends.",
+    "Identify real-life applications of mirrors and lenses."
+  ],
+  "introduction": "Light allows us to see the world around us, but it behaves in very predictable ways. Whether it is bouncing off a mirror so you can see your face or bending through a glass of water, light follows the laws of physics. In this lesson, we will explore the two primary behaviors of light: Reflection and Refraction.",
+  "content": "<h3>1. Reflection of Light</h3><p><b>Reflection</b> occurs when light hits a surface and bounces off. The <b>Law of Reflection</b> states that the <i>angle of incidence</i> (incoming light) is always equal to the <i>angle of reflection</i> (outgoing light).</p><ul><li><b>Plane Mirrors:</b> Flat mirrors that produce an upright, virtual image of the same size.</li><li><b>Concave Mirrors:</b> Curved inward (like a spoon). They can magnify objects and are used in makeup mirrors and car headlights.</li><li><b>Convex Mirrors:</b> Curved outward. They provide a wider field of view and are used as side-view mirrors in cars and security mirrors in stores.</li></ul><h3>2. Refraction of Light</h3><p><b>Refraction</b> is the bending of light as it passes from one transparent medium to another (e.g., from air to water). This happens because light <b>changes speed</b> when it enters a material with a different density.</p><ul><li><b>Prisms:</b> A triangular glass block that refracts white light into a rainbow of colors (dispersion).</li><li><b>Lenses:</b> Curved pieces of glass or plastic. <i>Convex lenses</i> (converging) are used in magnifying glasses and cameras, while <i>concave lenses</i> (diverging) are used in some eyeglasses.</li></ul><h3>3. Everyday Applications</h3><p>Properties of light are used in many technologies. Lenses in our eyes help us focus, mirrors in telescopes allow us to see distant stars, and fiber optic cables use light to send high-speed internet data across the globe.</p>",
+  "examples": [
+    {
+      "title": "The 'Broken' Pencil",
+      "description": "If you place a pencil in a half-filled glass of water, it looks bent or broken at the water's surface. This is a classic example of Refraction."
+    },
+    {
+      "title": "Rear-view Mirrors",
+      "description": "Car side mirrors are usually convex. They make objects look smaller but allow the driver to see a much larger area behind the car."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Incident Ray", "definition": "The ray of light that strikes a surface." },
+    { "term": "Medium", "definition": "The substance or material through which light travels (air, water, glass)." },
+    { "term": "Virtual Image", "definition": "An image formed where light rays appear to come from, but do not actually meet." }
+  ],
+  "keyConcepts": [
+    "Smooth surfaces produce regular reflection; rough surfaces produce diffuse reflection.",
+    "Light bends toward the normal line when it slows down (enters a denser medium).",
+    "Reflection involves bouncing; refraction involves bending."
+  ],
+  "summary": "Light interacts with matter through reflection and refraction. The Law of Reflection governs how light bounces off mirrors, while refraction explains why light bends when changing speed between media. These properties are fundamental to how our eyes, cameras, and many optical tools function.",
+  "selfCheck": [
+    { "q": "What is the law that states the angle of incidence equals the angle of reflection?", "a": "The Law of Reflection" },
+    { "q": "Why does light bend when it moves from air into water?", "a": "Because its speed changes (it slows down)." },
+    { "q": "Which type of mirror is used as a security mirror in stores to provide a wide view?", "a": "Convex Mirror" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Optics (Eugene Hecht).",
+    "Science 8 Learner's Module: Light."
+  ]
+}

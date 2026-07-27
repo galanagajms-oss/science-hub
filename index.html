@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science MATATAG Hub</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html" class="logo-container">
+            <svg width="50" height="50" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <path d="M85,50 A35,35 0 1,1 70,20" fill="none" stroke="#2D5A27" stroke-width="6" stroke-linecap="round"/>
+                <line x1="75" y1="75" x2="95" y2="95" stroke="#2D5A27" stroke-width="6" stroke-linecap="round"/>
+                <path d="M35,30 V60 Q35,70 25,70" fill="none" stroke="#2C3333" stroke-width="5" stroke-linecap="round"/>
+                <path d="M45,30 Q65,30 65,45 Q65,55 45,55 Q65,55 65,70 Q65,80 45,80" fill="none" stroke="#2D5A27" stroke-width="5" stroke-linecap="round"/>
+                <line x1="45" y1="30" x2="45" y2="80" stroke="#2C3333" stroke-width="5" stroke-linecap="round"/>
+                <circle cx="65" cy="45" r="3" fill="#2D5A27"/>
+                <circle cx="65" cy="70" r="3" fill="#2D5A27"/>
+                <circle cx="35" cy="30" r="3" fill="#2C3333"/>
+            </svg>
+            <h2>Science MATATAG Hub</h2>
+        </a>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <h1 id="heroTitle">Advancing Science Education</h1>
+        <p>A comprehensive digital reviewer for Junior High School.</p>
+        <div class="dev-credit">Developed by James B. Galanaga, LPT</div>
+        <br><br>
+        <a href="#grades" class="btn-hero">Start Learning</a>
+    </header>
+
+    <main id="grades" class="container">
+        <h2 style="text-align:center; margin-bottom: 30px;">Select Grade Level</h2>
+        <div class="grid">
+            <a href="pages/grade.html?grade=7" class="card"><h3>Grade 7</h3><p>Nature & Matter</p></a>
+            <a href="pages/grade.html?grade=8" class="card"><h3>Grade 8</h3><p>Force & Energy</p></a>
+            <a href="pages/grade.html?grade=9" class="card"><h3>Grade 9</h3><p>Chemical Systems</p></a>
+            <a href="pages/grade.html?grade=10" class="card"><h3>Grade 10</h3><p>Physics & Heredity</p></a>
+        </div>
+    </main>
+
+    <footer>&copy; 2026 Science MATATAG Hub | Developed by James B. Galanaga, LPT</footer>
+
+    <script>
+        // Floating letters animation logic
+        const title = document.getElementById('heroTitle');
+        if (title) {
+            const text = title.innerText;
+            title.innerHTML = ''; 
+            text.split('').forEach(char => {
+                const span = document.createElement('span');
+                span.innerText = char === ' ' ? '\u00A0' : char; 
+                span.className = 'float-letter';
+                title.appendChild(span);
+            });
+        }
+    </script>
+</body>
+</html>

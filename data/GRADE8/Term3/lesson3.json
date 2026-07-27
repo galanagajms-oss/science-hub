@@ -1,0 +1,44 @@
+{
+  "title": "Acceleration and Motion Graphs",
+  "competency": "Identify that forces cause objects to accelerate, and that acceleration of an object is its rate of change of velocity; observe and describe examples of accelerating objects; and construct and annotate distance-time and velocity-time graphs to represent uniform and non-uniform acceleration.",
+  "objectives": [
+    "Define acceleration and its relationship to force.",
+    "Calculate acceleration using the change in velocity over time.",
+    "Differentiate between uniform and non-uniform acceleration.",
+    "Interpret distance-time and velocity-time graphs for accelerating objects.",
+    "Describe uniform circular motion as a form of acceleration."
+  ],
+  "introduction": "In the previous lessons, we discussed objects moving at a constant speed. However, most things in real life—like a car starting from a stoplight or a ball falling from a roof—change their speed or direction. This change in motion is called 'Acceleration,' and it only happens when an unbalanced force is applied.",
+  "content": "<h3>1. What is Acceleration?</h3><p><b>Acceleration</b> is the rate at which an object changes its velocity. Because velocity involves both speed and direction, an object accelerates if it:</p><ul><li>Speeds up</li><li>Slows down (often called <i>deceleration</i>)</li><li>Changes direction</li></ul><p>The formula for average acceleration is: <b>a = (v<sub>f</sub> - v<sub>i</sub>) / t</b>, where v<sub>f</sub> is final velocity, v<sub>i</sub> is initial velocity, and t is time. The standard unit is <b>m/s²</b> (meters per second squared).</p><h3>2. Force and Acceleration</h3><p>An object will only accelerate if an <b>unbalanced force</b> acts on it. According to the laws of physics, the greater the force applied to an object, the greater its acceleration will be.</p><h3>3. Uniform Circular Motion</h3><p>Even if an object is moving at a constant speed, it is still accelerating if it is moving in a <b>circle</b>. This is because its direction is constantly changing. Examples include a merry-go-round or a car turning a corner.</p><h3>4. Graphing Acceleration</h3><ul><li><b>Distance-Time (d-t) Graph:</b> Acceleration is represented by a <b>curved line</b> (parabola). A curve that gets steeper means the object is speeding up.</li><li><b>Velocity-Time (v-t) Graph:</b> Acceleration is represented by the <b>slope</b> of the line. <ul><li>A straight diagonal line means <i>uniform (constant) acceleration</i>.</li><li>A horizontal line means <i>zero acceleration</i> (constant velocity).</li><li>A curved line means <i>non-uniform acceleration</i>.</li></ul></li></ul>",
+  "examples": [
+    {
+      "title": "Calculating Acceleration",
+      "description": "A car starts from rest (0 m/s) and reaches a velocity of 20 m/s in 4 seconds. Acceleration = (20 - 0) / 4 = 5 m/s²."
+    },
+    {
+      "title": "Athletes on an Oval",
+      "description": "A runner sprinting at a steady 5 m/s around a curved track is accelerating because their direction of travel is constantly changing as they follow the curve."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Velocity", "definition": "The speed of an object in a particular direction." },
+    { "term": "Uniform Acceleration", "definition": "A type of motion in which the velocity of an object changes by an equal amount in every equal time period." },
+    { "term": "Slope", "definition": "The steepness of a line on a graph; on a v-t graph, it represents acceleration." }
+  ],
+  "keyConcepts": [
+    "Acceleration occurs whenever there is a change in speed, direction, or both.",
+    "Force is the cause of acceleration.",
+    "The area under a velocity-time graph represents the displacement of the object."
+  ],
+  "summary": "Acceleration is the rate of change of velocity. It is caused by unbalanced forces and is measured in m/s². We can represent acceleration visually: a curved line on a distance-time graph and a sloped line on a velocity-time graph indicate that an object's motion is changing.",
+  "selfCheck": [
+    { "q": "What is the standard unit used to measure acceleration?", "a": "m/s²" },
+    { "q": "If an object moves at a constant speed but changes direction, is it accelerating?", "a": "Yes" },
+    { "q": "What does a horizontal line on a velocity-time graph represent?", "a": "Zero acceleration (or constant velocity)." }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "Physics: Principles with Applications (Douglas Giancoli).",
+    "The Physics Classroom: Acceleration."
+  ]
+}

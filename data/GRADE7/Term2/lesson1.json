@@ -1,0 +1,43 @@
+{
+  "title": "Cellular Reproduction: Mitosis and Meiosis",
+  "competency": "Recognize that cells reproduce through two types of cell division, mitosis and meiosis, and explain how genetic information is passed on.",
+  "objectives": [
+    "Describe mitosis as a process for growth and repair.",
+    "Describe meiosis as a process for the production of reproductive cells.",
+    "Differentiate sexual from asexual reproduction.",
+    "Explain how genetic information is passed from parents to offspring."
+  ],
+  "introduction": "How does a small seedling grow into a giant tree? How does a cut on your skin heal? The answer is Cell Division. Reproduction is the process by which organisms produce offspring, ensuring the survival of their species.",
+  "content": "<h3>1. Mitosis: Growth and Repair</h3><p>Mitosis is a type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus. It is essential for:</p><ul><li><b>Growth:</b> Increasing the number of cells in an organism.</li><li><b>Repair:</b> Replacing damaged or dead cells.</li><li><b>Asexual Reproduction:</b> Producing offspring that are genetically identical to the parent.</li></ul><h3>2. Meiosis: Production of Gametes</h3><p>Meiosis is a special type of cell division that reduces the chromosome number by half. It creates <b>gametes</b> (sperm and egg cells). This is vital for <b>Sexual Reproduction</b>, which involves the fusion of two gametes to form a new, genetically unique individual.</p><h3>3. Sexual vs. Asexual Reproduction</h3><ul><li><b>Asexual:</b> Requires only one parent. Offspring are clones (genetically identical). Examples: Bacteria (binary fission), Starfish (regeneration).</li><li><b>Sexual:</b> Requires two parents. Offspring have a combination of DNA from both parents, leading to genetic variation.</li></ul><h3>4. Fertilization and Heredity</h3><p>Fertilization occurs when a male reproductive cell (sperm) fuses with a female reproductive cell (egg). This union carries the genetic instructions (DNA) from both parents, determining the traits of the offspring.</p>",
+  "examples": [
+    {
+      "title": "Skin Healing",
+      "description": "When you get a scratch, the cells around the wound undergo Mitosis to create new skin cells that fill the gap."
+    },
+    {
+      "title": "Human Heredity",
+      "description": "You might have your father's eyes and your mother's hair color because of the genetic mixing that happens during Meiosis and Fertilization."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Chromosome", "definition": "A thread-like structure of DNA that carries genes." },
+    { "term": "Gamete", "definition": "A mature haploid male or female germ cell (Sperm/Egg)." },
+    { "term": "Zygote", "definition": "The diploid cell resulting from the fusion of two gametes." }
+  ],
+  "keyConcepts": [
+    "Mitosis produces identical cells; Meiosis produces diverse cells.",
+    "Asexual reproduction is fast, but sexual reproduction provides genetic diversity.",
+    "Fertilization restores the full number of chromosomes in the offspring."
+  ],
+  "summary": "Cell division is the foundation of life. Through Mitosis, organisms grow and heal. Through Meiosis and Fertilization, organisms pass on their genetic heritage to the next generation, creating the variety of life we see on Earth.",
+  "selfCheck": [
+    { "q": "Which type of cell division is used for growth and repair?", "a": "Mitosis" },
+    { "q": "How many parents are required for asexual reproduction?", "a": "One" },
+    { "q": "What do we call the process when a sperm cell and an egg cell join?", "a": "Fertilization" }
+  ],
+  "references": [
+    "DepEd MATATAG Science 7 Budget of Work (2023).",
+    "Biology: Concepts and Applications (Starr et al.).",
+    "Khan Academy: Mitosis vs. Meiosis."
+  ]
+}

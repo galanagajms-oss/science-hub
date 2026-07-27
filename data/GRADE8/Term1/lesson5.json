@@ -1,0 +1,43 @@
+{
+  "title": "Historical Background of the Atomic Model",
+  "competency": "Develop a timeline for the historical background of the development of the current Atomic Model that identifies tiny particles as atoms; draw the structure of an atom in terms of the nucleus and electron shells.",
+  "objectives": [
+    "Trace the historical development of the atomic model from Democritus to the modern model.",
+    "Identify the key scientists and their specific contributions to atomic theory.",
+    "Describe the experiments that led to the discovery of subatomic particles.",
+    "Illustrate the basic structure of an atom showing the nucleus and electron shells."
+  ],
+  "introduction": "How do we know what an atom looks like if we cannot see it? For over 2,000 years, scientists have proposed different models to explain the nature of matter. As technology improved, our understanding of the atom evolved from a simple solid sphere to a complex system of subatomic particles.",
+  "content": "<h3>1. The Timeline of the Atomic Model</h3><ul><li><b>Democritus (400 BC):</b> Proposed that matter is composed of tiny, indivisible particles called <i>atomos</i>.</li><li><b>John Dalton (1803):</b> Formulated the first modern atomic theory. He pictured the atom as a solid, indivisible sphere (The Billiard Ball Model).</li><li><b>J.J. Thomson (1897):</b> Discovered the electron using the cathode ray tube experiment. He proposed the <i>Plum Pudding Model</i>, where negative electrons are embedded in a positive sphere.</li><li><b>Ernest Rutherford (1911):</b> Conducted the <i>Gold Foil Experiment</i>. He discovered that the atom has a small, dense, positively charged <b>nucleus</b> and that most of the atom is empty space.</li><li><b>Niels Bohr (1913):</b> Proposed the <i>Planetary Model</i>. He suggested that electrons move in fixed circular paths called <b>shells</b> or orbits around the nucleus.</li><li><b>Erwin Schrödinger (1926):</b> Developed the Quantum Mechanical Model, where electrons move in an 'electron cloud' rather than fixed orbits.</li></ul><h3>2. Basic Structure of the Atom</h3><p>Based on our current understanding, the atom consists of two main regions:</p><ul><li><b>The Nucleus:</b> The center of the atom containing protons and neutrons. It holds almost all the atom's mass.</li><li><b>Electron Shells:</b> The regions surrounding the nucleus where electrons are most likely to be found.</li></ul>",
+  "examples": [
+    {
+      "title": "The Gold Foil Experiment",
+      "description": "Rutherford fired alpha particles at a thin sheet of gold. Most passed through, but some bounced back. This proved that the atom is mostly empty space with a tiny, hard core (the nucleus)."
+    },
+    {
+      "title": "Bohr’s Orbits",
+      "description": "Similar to how planets orbit the sun, Bohr proposed that electrons occupy specific energy levels. Electrons can jump between these shells by absorbing or releasing energy."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Atomos", "definition": "A Greek word meaning 'indivisible' or 'uncuttable'." },
+    { "term": "Nucleus", "definition": "The small, dense, central core of an atom." },
+    { "term": "Electron Shells", "definition": "The specific energy levels where electrons orbit the nucleus." }
+  ],
+  "keyConcepts": [
+    "The atomic model changed as new experimental evidence was discovered.",
+    "Rutherford's discovery of the nucleus shifted the model from a solid mass to a nuclear structure.",
+    "Bohr's model introduced the idea of quantized energy levels (shells) for electrons."
+  ],
+  "summary": "The atomic model has evolved from the indivisible 'atomos' of the Greeks to Dalton’s solid sphere, Thomson’s pudding, Rutherford’s nucleus, and Bohr’s electron shells. Today, we view the atom as a central nucleus surrounded by electrons in specific energy levels.",
+  "selfCheck": [
+    { "q": "Who discovered the nucleus of the atom?", "a": "Ernest Rutherford" },
+    { "q": "What experiment led to the discovery of the electron?", "a": "The Cathode Ray Tube Experiment" },
+    { "q": "In Bohr’s model, where are the electrons located?", "a": "In fixed circular paths called shells or orbits around the nucleus." }
+  ],
+  "references": [
+    "DepEd MATATAG Science 8 Budget of Work (2023).",
+    "General Chemistry (Ebbing & Gammon).",
+    "American Chemical Society: The History of the Atom."
+  ]
+}
